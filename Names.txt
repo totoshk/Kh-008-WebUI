@@ -1,6 +1,17 @@
 Max
+<<<<<<< HEAD
+Nikitos
+=======
 Rostyslav Shtets
 Svetlana Semenova
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> up/master
+=======
+Mark K.
+>>>>>>> upp/master
+=======
 Svitlana Havryliuk
 Mark K.
 
+>>>>>>> uppp/master
