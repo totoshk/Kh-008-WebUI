@@ -1,2 +1,7 @@
 Max
+<<<<<<< HEAD
 Nikitos
+=======
+Rostyslav Shtets
+Svetlana Semenova
+>>>>>>> up/master
