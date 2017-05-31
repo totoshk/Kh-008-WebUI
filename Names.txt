@@ -4,4 +4,8 @@ Nikitos
 =======
 Rostyslav Shtets
 Svetlana Semenova
+<<<<<<< HEAD
 >>>>>>> up/master
+=======
+Mark K.
+>>>>>>> upp/master
